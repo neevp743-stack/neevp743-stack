@@ -10,7 +10,7 @@
 
 <p align="center">   <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=28&duration=3500&pause=1000&color=58A6FF¢er=true&vCenter=true&width=900&lines=Aspiring+AI+Engineer;Data+Science+Enthusiast;Full+Stack+Developer;Building+Real+World+Projects;Always+Learning+New+Technologies" /> </p> </div>
 
-<h2 align="center"> 👋 Hi, I'm Tirth Patel </h2>
+<h2 align="center"> 👋 Hi, I'm Neev Patel </h2>
 
 <h3 align="center"> 🤖 Aspiring AI Engineer  |  📊 Data Science Enthusiast  |  🌐 Full Stack Developer </h3>
 
@@ -48,7 +48,7 @@
 
 <p>
 
-Hi there! 👋 I'm <b>Tirth Patel</b>, a <b>Artificial Intelligent & Machine Learning Engineering Student</b> from <b>India 🇮🇳</b> who is passionate about building impactful software and exploring the world of Artificial Intelligence.
+Hi there! 👋 I'm <b>Neev Patel</b>, a <b>Artificial Intelligent & Machine Learning Engineering Student</b> from <b>India 🇮🇳</b> who is passionate about building impactful software and exploring the world of Artificial Intelligence.
 
 I enjoy solving real-world problems through code and continuously improving my skills by building practical projects.
 
