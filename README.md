@@ -1,216 +1,329 @@
-# 👋 Hey, I'm Neev Patel
+<!-- ============================== -->
 
-### `AI/ML Student` • `Python Developer` • `Problem Solver`
+<!--        PREMIUM HERO            -->
+
+<!-- ============================== -->
+
+<div align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=gradient&customColorList=12,20,24,30&text=Tirth%20Patel&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Aspiring%20AI%20Engineer%20•%20Data%20Science%20Enthusiast%20•%20Full%20Stack%20Developer&descAlignY=60"/>
+
+<p align="center">   <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=28&duration=3500&pause=1000&color=58A6FF¢er=true&vCenter=true&width=900&lines=Aspiring+AI+Engineer;Data+Science+Enthusiast;Full+Stack+Developer;Building+Real+World+Projects;Always+Learning+New+Technologies" /> </p> </div>
+
+<h2 align="center"> 👋 Hi, I'm Tirth Patel </h2>
+
+<h3 align="center"> 🤖 Aspiring AI Engineer  |  📊 Data Science Enthusiast  |  🌐 Full Stack Developer </h3>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,100:203a43&height=180&section=header&text=NEEV%20PATEL&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=55" />
+
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&duration=2500&pause=1000&color=58A6FF¢er=true&vCenter=true&width=900&lines=🤖+Aspiring+AI+Engineer;📊+Data+Science+Enthusiast;🌐+Full+Stack+Developer;🚀+Building+Real+World+Projects;☕+Java+Developer;🐍+Python+Programmer;💻+C+%7C+C%2B%2B+Developer;🧠+Always+Learning+New+Technologies"/>
+
 </p>
 
 <p align="center">
-  <a href="https://github.com/neevp743-stack">
-    <img src="https://komarev.com/ghpvc/?username=neevp743-stack&style=flat-square&color=blue" />
-  </a>
-  <img src="https://img.shields.io/github/followers/neevp743-stack?style=flat-square&logo=github" />
-  <img src="https://img.shields.io/github/stars/neevp743-stack?style=flat-square&logo=github" />
+
+<a href="https://github.com/neevp743-stack"> <img src="https://komarev.com/ghpvc/?username=neevp743-stack&label=PROFILE+VIEWS&style=for-the-badge&color=0e75b6"/> </a>
+
+<a href="https://github.com/neevp743-stack?tab=followers"> <img src="https://img.shields.io/github/followers/neevp743-stack?style=for-the-badge&logo=github"/> </a>
+
+<a href="https://github.com/neevp743-stack"> <img src="https://img.shields.io/github/stars/neevp743-stack?style=for-the-badge&logo=github"/> </a>
+
 </p>
 
----
+<p align="center">
 
-## 🧠 About Me
+💡 "Transforming Curiosity into Intelligent Solutions."
 
-```python
-class NeevPatel:
+</p>
 
-    def __init__(self):
-        self.name = "Neev Patel"
-        self.role = "AI/ML Student"
-        self.location = "India 🇮🇳"
-        self.focus = [
-            "Artificial Intelligence",
-            "Machine Learning",
-            "Data Science",
-            "Problem Solving"
-        ]
-        self.languages = ["Python", "C", "C++", "Java"]
-        self.current_goal = "Build intelligent real-world applications"
+<!-- ===================================================== -->
 
-    def say_hi(self):
-        print("Thanks for visiting my profile! 🚀")
-```
+<!--                    ABOUT ME                            -->
 
-I'm a **B.Tech AI & ML student** who enjoys turning ideas into practical software.
+<!-- ===================================================== -->
 
-Currently, I'm focused on strengthening my programming fundamentals, exploring **Artificial Intelligence & Machine Learning**, and building projects that solve real-world problems.
+<h2 align="left">👨‍💻 About Me</h2>
 
----
-
-## ⚡ What I'm Working On
-
-| Area            | Current Focus                     |
-| --------------- | --------------------------------- |
-| 🤖 AI / ML      | Machine Learning fundamentals     |
-| 📊 Data Science | Python, NumPy, Pandas, Matplotlib |
-| 💻 Programming  | C, C++, Java, Python              |
-| 🧠 DSA          | Problem solving & algorithms      |
-| 🌐 Development  | Web development & APIs            |
-| 🚀 Projects     | Building practical applications   |
-
----
-
-## 🛠️ Tech Stack
-
-### 💻 Languages
+<img align="right" alt="Coding" width="360" src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif">
 
 <p>
-<img src="https://skillicons.dev/icons?i=python,c,cpp,java" />
+
+Hi there! 👋 I'm <b>Tirth Patel</b>, a <b>Artificial Intelligent & Machine Learning Engineering Student</b> from <b>India 🇮🇳</b> who is passionate about building impactful software and exploring the world of Artificial Intelligence.
+
+I enjoy solving real-world problems through code and continuously improving my skills by building practical projects.
+
 </p>
 
-### 📊 AI / Data Science
+🚀 What I'm Currently Doing
 
-<p>
-<img src="https://skillicons.dev/icons?i=python" />
-</p>
+🤖 Exploring Artificial Intelligence
 
-`NumPy` • `Pandas` • `Matplotlib` • `Scikit-learn`
+📊 Learning Data Science
 
-### 🌐 Web Development
+🌐 Becoming a Full Stack Developer
 
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,js" />
-</p>
+💻 Strengthening Java, Python & DSA
 
-### 🧰 Tools
+🚀 Building StudentHub
 
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,figma" />
-</p>
+📚 Learning something new every day
 
----
+🚀 Current Focus
 
-## 🎯 My Learning Roadmap
+🎯 Artificial Intelligence
+🎯 Data Science
+🎯 Problem Solving
+🎯 Java Development
+🎯 Python Programming
+🎯 Continuous Learning
 
-```text
-Programming Fundamentals
-        ↓
-Data Structures & Algorithms
-        ↓
-Python + Data Science
-        ↓
-Machine Learning
-        ↓
-Deep Learning
-        ↓
-AI Applications
-        ↓
-Real-World AI Products 🚀
-```
+🎯 Career Goal
 
----
+Build intelligent AI-powered products that solve real-world problems and create a positive impact through technology.
 
-## 📌 Featured Projects
+<br>
 
-### 🚧 Projects Coming Soon
+<!-- ===================================================== -->
 
-I'm actively building projects around:
+<!--                    TECH STACK                          -->
 
-* 🤖 Artificial Intelligence
-* 📊 Data Science
-* 🧠 Machine Learning
-* 🌐 Web Applications
-* 🔌 IoT & Smart Systems
-* 💡 Real-world problem solving
+<!-- ===================================================== -->
 
-> More projects will be added as I build and deploy them.
+<h2 align="left">🛠️ Tech Stack</h2>
 
----
+👨‍💻 Programming Languages
 
-## 📊 GitHub Analytics
+<p align="center"> <img src="https://skillicons.dev/icons?i=c,cpp,java,python"/> </p>
 
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=neevp743-stack&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
-  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=neevp743-stack&theme=tokyonight&hide_border=true" />
-</p>
+🌐 Frontend Development
 
-<p align="center">
-  <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=neevp743-stack&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
+<p align="left">   <img src="https://skillicons.dev/icons?i=html,css,js,react" /> </p> ---
 
----
+⚙️ Backend Development
 
-## 📈 Contribution Activity
+<p align="left">   <img src="https://skillicons.dev/icons?i=nodejs,express" /> </p>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=neevp743-stack&theme=tokyo-night&hide_border=true&area=true" />
-</p>
+🗄️ Database
 
----
+<p align="left"> <img src="https://skillicons.dev/icons?i=mysql,mongodb" /> </p>
 
-## 🏆 GitHub Trophies
+🤖 AI • Data Science (Currently Learning)
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=neevp743-stack&theme=tokyonight&no-frame=true&no-bg=true&row=2&column=4" />
-</p>
+<p align="left"> <img src="https://skillicons.dev/icons?i=python" /> </p>
 
----
+🛠️ Tools & Platforms
 
-## 🧩 My Developer Mindset
+<p align="left"> <img src="https://skillicons.dev/icons?i=git,github,vscode,idea,figma" /> </p>
 
-```text
-Learn → Build → Break → Debug → Improve → Repeat
-```
+📚 Currently Learning
 
-I believe the best way to learn technology is to **build things with it**.
+🤖 Artificial Intelligence
 
-Every project is an opportunity to understand something new.
+📊 Data Science
 
----
+🌐 Full Stack Development
 
-## 🚀 Goals
+🧠 Machine Learning
 
-* [ ] Become strong in Python
-* [ ] Master Data Structures & Algorithms
-* [ ] Build Machine Learning projects
-* [ ] Learn Deep Learning
-* [ ] Contribute to Open Source
-* [ ] Build and deploy AI applications
-* [ ] Create projects that solve real problems
+💻 Data Structures & Algorithms
 
----
+⚡ SQL
 
-## 💬 Developer Philosophy
+🚀 MERN Stack
 
-> **"Don't just learn technology. Build something with it."**
+<!-- ===================================================== -->
 
----
+<!--                 GITHUB ANALYTICS                      -->
 
-## 🌐 Connect With Me
+<!-- ===================================================== -->
+
+<h2 align="center">📊 GitHub Analytics</h2>
 
 <p align="center">
 
-<a href="https://github.com/neevp743-stack">
-<img src="https://img.shields.io/badge/GitHub-neevp743--stack-181717?style=for-the-badge&logo=github"/>
-</a>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=neevp743-stack&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15&rank_icon=github"/>
 
-</p>
-
----
-
-## 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/neevp743-stack/neevp743-stack/output/github-contribution-grid-snake.svg" />
-</p>
-
----
-
-<p align="center">
-
-### ⭐ Thanks for visiting my profile!
-
-**Keep Learning • Keep Building • Keep Growing 🚀**
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=neevp743-stack&theme=tokyonight&hide_border=true&border_radius=15"/>
 
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:203a43,100:0f2027&height=100&section=footer"/>
+
+<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=neevp743-stack&layout=compact&theme=tokyonight&hide_border=true&border_radius=15"/>
+
+<img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=neevp743-stack&theme=tokyonight&utcOffset=5.5"/>
+
 </p>
+
+<h2 align="center">📈 Contribution Graph</h2>
+
+<p align="center">
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=neevp743-stack&theme=tokyo-night&hide_border=true"/>
+
+</p>
+
+<h2 align="center">🏆 GitHub Trophies</h2>
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=neevp743-stack&theme=tokyonight&no-frame=true&no-bg=true&row=2&column=4"/>
+
+</p>
+
+<!-- ===================================================== -->
+
+<!--                    PROJECTS                           -->
+
+<!-- ===================================================== -->
+
+<h2 align="center">🚀 Projects have done !</h2>
+
+<table> <tr>
+
+<td width="50%" valign="top">
+
+<h3 align="center">🗳️ Voting Machine in C <br><sub>✅ Completed</sub></h3>
+
+<p align="center">
+
+A console-based Electronic Voting Machine built in C that securely records votes, counts them instantly, and displays election results.
+
+</p>
+
+✨ Features
+
+🗳️ Multiple Candidate Voting
+
+📊 Instant Vote Counting
+
+📈 Result Declaration
+
+🚫 Invalid Vote Protection
+
+💻 Console-Based Interface
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/> <img src="https://img.shields.io/badge/Status-Completed-success?style=for-the-badge"/>
+
+<br><br>
+
+<a href="https://github.com/neevp743-stack/VotingMachineinC"> <img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white"/> </a>
+
+</p>
+
+</td>
+
+</tr> </table>
+
+Building projects that strengthen my skills in
+
+<b>Artificial Intelligence</b> • <b>Data Science</b> • <b>Full Stack Development</b>
+
+</p>
+
+<!-- ===================================================== -->
+
+<!--          CERTIFICATIONS & LEARNING JOURNEY            -->
+
+<!-- ===================================================== -->
+
+<h2 align="center">🏆 Certifications</h2>
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Cisco-Packet%20Tracer-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Status-Certified-success?style=for-the-badge"/>
+
+</p>
+
+<table align="center"> <tr> <td>
+
+🎓 Cisco Packet Tracer
+
+✅ Cisco Networking Basics
+
+🌐 Networking Fundamentals
+
+🖥️ Packet Tracer Simulation
+
+📚 Practical Networking Skills
+
+</td> </tr> </table>
+
+<!-- ===================================================== -->
+
+<!--                 CONNECT WITH ME                       -->
+
+<!-- ===================================================== -->
+
+<h2 align="center">🌐 Connect With Me</h2>
+
+<p align="center"> I'm always open to connecting with developers, collaborating on exciting projects, and exploring opportunities in AI, Data Science, and Full Stack Development. </p>
+
+<p align="center">
+
+<a href="mailto:pateltirth2048@gmail.com"> <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/> </a>
+
+<a href="https://www.linkedin.com/in/tirthpatel204" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/> </a>
+
+<a href="https://github.com/neevp743-stack" target="_blank"> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/> </a>
+
+</p>
+
+<h2 align="center">💬 Developer Quote</h2>
+
+<p align="center">
+
+<i> "Every expert was once a beginner. Every great project starts with curiosity and consistent learning." </i>
+
+</p>
+
+<h2 align="center">☕ Fun Fact</h2>
+
+<p align="center">
+
+💡 I enjoy building real-world applications and continuously exploring the latest technologies in Artificial Intelligence, Data Science, and Full Stack Development.
+
+</p>
+
+<!-- ===================================================== -->
+
+<!--              CONTRIBUTION SNAKE                       -->
+
+<!-- ===================================================== -->
+
+
+
+<h2 align="center">👀 Visitors</h2>
+
+<p align="center">
+
+<img src="https://komarev.com/ghpvc/?username=neevp743-stack&label=PROFILE+VIEWS&style=for-the-badge&color=blue"/>
+
+</p>
+
+<h2 align="center"> Thanks for Visiting My Profile</h2>
+
+<p align="center">
+
+If you like my work, don't forget to ⭐ my repositories and connect with me.
+
+</p>
+
+<p align="center">
+
+<a href="https://github.com/neevp743-stack"> <img src="https://img.shields.io/badge/Follow%20on%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/> </a>
+
+<a href="https://www.linkedin.com/in/tirthpatel204"> <img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/> </a>
+
+</p>
+
+<div align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving§ion=footer&height=140&color=gradient&customColorList=12,20,24,30"/>
+
+</div>
+
