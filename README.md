@@ -326,4 +326,3 @@ If you like my work, don't forget to ⭐ my repositories and connect with me.
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving§ion=footer&height=140&color=gradient&customColorList=12,20,24,30"/>
 
 </div>
-
